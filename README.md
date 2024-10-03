@@ -1,14 +1,14 @@
 # Pwc_task2_Call_center_trends_Power_BI
 PWC Call Center Analysis with Excel and Power BI
 
-Overview
+<u>Overview</u>
 
 This project focuses on performing comprehensive analysis and visualization of call center data using Excel and Power BI. The goal is to gain valuable insights into call handling performance, customer satisfaction, and operational efficiency.
 
-Table of Contents
+<u>Table of Contents</u>
 
-[Project Description]
-[Key Features]
+<u>[Project Description]</u>
+<u>[Key Features]</u>
 [Prerequisites]
 [Getting Started]
 [Usage]
@@ -20,7 +20,7 @@ Table of Contents
 
 Managing and analyzing call center data is crucial for enhancing customer service and optimizing operational processes. This project offers a solution for analyzing call center performance by leveraging the power of Excel and Power BI.
 
-Key Features
+<u>Key Features
 Data Preparation: Clean and transform raw call center data for analysis.
 Excel Analysis: Perform in-depth analysis and calculations using Excel.
 Power BI Visualization: Create interactive and insightful visualizations.
@@ -28,7 +28,7 @@ Customer Satisfaction Analysis: Measure and visualize customer satisfaction scor
 Call Handling Efficiency: Analyze and optimize call handling times and performance.
 Historical Trends: Identify historical trends and make data-driven decisions.
 
-Prerequisites
+<u>Prerequisites</u>
 Before you begin, ensure you have met the following requirements:
 
 Excel installed on your local machine.
